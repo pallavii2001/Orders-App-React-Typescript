@@ -1,0 +1,22 @@
+.order-details-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .order-details-box {
+    border: 2px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    width: 400px;
+  }
+  
+  .order-details-box.success {
+    background-color: lightgreen;
+  }
+  
+  .order-details-box.pending {
+    background-color: lightyellow;
+  }
+  

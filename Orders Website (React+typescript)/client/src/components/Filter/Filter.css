@@ -1,0 +1,21 @@
+.filter-form-container {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .filter-form-control {
+    width: 200px;
+  }
+  
+  .filter-select {
+    width: 100%;
+  }
+  
+  .filter-date-input {
+    width: 150px;
+  }
+  
+  .apply-filter-button {
+    margin-top: 16px;
+  }
+  
